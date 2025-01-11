@@ -7,7 +7,7 @@ export default function Navbar({mode,enabledark,heading}) {
   return (
     <nav className={`navbar navbar-expand-lg navbar-${mode} bg-${mode}`}>
   <div className="container-fluid">
-    
+    {/* hiyhbjb */}
     {/* <a className="navbar-brand" to="/">title</a> */}
     <a className="navbar-brand" href="/">{heading}</a>
 
